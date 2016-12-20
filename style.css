@@ -1,0 +1,9 @@
+button {
+  color: white;
+  background-color: #4080ff;
+}
+
+button:disabled {
+  color: lightgrey;
+  background-color: grey;
+}
